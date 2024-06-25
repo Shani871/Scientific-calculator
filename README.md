@@ -115,14 +115,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Project Repository**: [GitHub](https://github.com/your-username/scientific-calculator)
-- **Issues**: [Report Issues](https://github.com/your-username/scientific-calculator/issues)
+- **Project Repository**: [GitHub](https://github.com/Shani871/scientific-calculator)
+- **Issues**: [Report Issues](https://github.com/Shani871/scientific-calculator/issues)
 - **Contributing Guidelines**: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 📞 Contact
 
-- **Email**: your-email@example.com
-- **GitHub**: [@your-username](https://github.com/your-username)
+- **Email**: chauhanshani189@gmail.com
+- **GitHub**: [@your-username](https://github.com/Shani871)
 
 ## 📷 Screenshots
 
