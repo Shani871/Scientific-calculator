@@ -128,6 +128,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 | Light Theme | Dark Theme |
 |-------------|------------|
-| ![Light Theme Screenshot](#) | ![Dark Theme Screenshot](#) |
+| ![Light Theme Screenshot](https://github.com/Shani871/Scientific-calculator/blob/main/light.png) | ![Dark Theme Screenshot](https://github.com/Shani871/Scientific-calculator/blob/main/dark.png) |
 
 Feel free to replace the placeholder text and links with actual content as necessary.
